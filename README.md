@@ -1,11 +1,19 @@
 # Full Stack Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Full Stack Jobs](https://algojobs.io/jobs/full-stack)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/01/2025 | [Specialist Software Engineer (Java Fullstack)](https://algojobs.io/jobs/3641074) | [NICE](https://algojobs.io/company/nice/) | N/A | India - Pune |
+| 03/31/2025 | [Software Engineer, Fullstack CDN](https://algojobs.io/jobs/3639728) | [Vercel](https://algojobs.io/company/vercel/) | $156K - $264K | Remote - United States |
+| 03/31/2025 | [Senior Fullstack Engineer (f/m/d)](https://algojobs.io/jobs/3639610) | [Contentful](https://algojobs.io/company/contentful/) | N/A | London, England, United Kingdom |
+| 03/31/2025 | [Senior Fullstack Engineer (f/m/d)](https://algojobs.io/jobs/3639614) | [Contentful](https://algojobs.io/company/contentful/) | N/A | Dublin, Dublin, Ireland |
+| 03/31/2025 | [Senior Fullstack Engineer (f/m/d)](https://algojobs.io/jobs/3639612) | [Contentful](https://algojobs.io/company/contentful/) | N/A | Berlin, Berlin, Germany |
+| 03/31/2025 | [Software Engineer II (Fullstack) - India](https://algojobs.io/jobs/3642469) | [Juniper Square ](https://algojobs.io/company/junipersquare/) | N/A | India |
+| 03/31/2025 | [Senior Software Engineer - Fullstack, Web](https://algojobs.io/jobs/3639083) | [Lalamove](https://algojobs.io/company/lalamove/) | N/A | Hong Kong, Hong Kong SAR |
+| 03/31/2025 | [Senior Fullstack Software Engineer, Network Performance Automation Group -National Performance & Analysis Section (RMI E2E Performance & Capacity Dep)](https://algojobs.io/jobs/3636294) | [Rakuten](https://algojobs.io/company/rakuten/) | N/A | Tokyo, Japan |
 | 03/28/2025 | [Software Engineer FullStack](https://algojobs.io/jobs/3619193) | [Contentsquare](https://algojobs.io/company/contentsquare/) | N/A | France / Spain (Remote) |
 | 03/28/2025 | [Lead Software Engineer (FullStack - Java and React )](https://algojobs.io/jobs/3627840) | [U.S. Bank](https://algojobs.io/company/usbank/) | $133K - $156K | Hopkins, MN / Charlotte, NC / Irving, TX / ... |
 | 03/28/2025 | [Développeur.se Logiciel fullstack / Fullstack Software Developer](https://algojobs.io/jobs/3619235) | [Plusgrade](https://algojobs.io/company/plusgrade/) | N/A | Montreal, Quebec (Hybrid) |
@@ -66,13 +74,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/13/2025 | [Senior Fullstack Engineer, VRM](https://algojobs.io/jobs/3454339) | [Vanta](https://algojobs.io/company/vanta/) | N/A | U.S. (Remote) |
 | 03/12/2025 | [Fullstack Engineering Intern](https://algojobs.io/jobs/3439292) | [GoLinks](https://algojobs.io/company/golinks/) | N/A | US (Remote) |
 | 03/12/2025 | [Senior Fullstack Engineer](https://algojobs.io/jobs/3450636) | [Payzen Inc.](https://algojobs.io/company/payzen/) | $190K - $225K | San Francisco, California (Hybrid) |
-| 03/12/2025 | [FullStack Java Developer](https://algojobs.io/jobs/3457391) | [Arrow](https://algojobs.io/company/arrow/) | N/A | Ahmedabad, India |
 | 03/12/2025 | [Java Fullstack Developer – C11 – Pune/Chennai](https://algojobs.io/jobs/3458783) | [Citi](https://algojobs.io/company/citi/) | N/A | Pune Maharashtra India / Chennai Tamil Nadu India |
 | 03/12/2025 | [Java Fullstack Developer – C11 – Pune/Chennai](https://algojobs.io/jobs/3458785) | [Citi](https://algojobs.io/company/citi/) | N/A | Pune Maharashtra India |
 | 03/12/2025 | [Senior Fullstack Developer](https://algojobs.io/jobs/3450670) | [PingWind](https://algojobs.io/company/pingwind/) | N/A | Remote |
 | 03/12/2025 | [.Net developer - Fullstack](https://algojobs.io/jobs/3449809) | [ProArch](https://algojobs.io/company/proarch-3/) | N/A | Hyderabad, Telangana, India (Remote) |
 | 03/11/2025 | [Staff Software Engineer [Fullstack] - Hospitality](https://algojobs.io/jobs/3436783) | [SpotOn: Product](https://algojobs.io/company/spotonproduct/) | $180K - $240K | Chicago, IL; Detroit, MI; Raleigh, NC; San Francisco, CA; New York City, NY |
 | 03/10/2025 | [Senior Fullstack Engineer (f/m/d) -Angular/Kotlin](https://algojobs.io/jobs/3421620) | [LeanIX](https://algojobs.io/company/leanix/) | N/A | Bonn, Germany |
+| 03/07/2025 | [FullStack Developer](https://algojobs.io/jobs/3411152) | [Marsh McLennan](https://algojobs.io/company/mmc/) | N/A | Mexico City - Paseo |
 | 03/07/2025 | [Fullstack Developer - R01547700](https://algojobs.io/jobs/3524654) | [Brillio](https://algojobs.io/company/brillio-2/) | N/A | Guadalajara, Jalisco, Mexico (Hybrid) |
 | 03/06/2025 | [Senior Software Engineer - Fullstack](https://algojobs.io/jobs/3405055) | [Databricks](https://algojobs.io/company/databricks/) | $166K - $225K | San Francisco, California |
 | 03/06/2025 | [Senior Fullstack Software Engineer - Taxonomy and Search (f/m/d)](https://algojobs.io/jobs/3386077) | [Contentful](https://algojobs.io/company/contentful/) | N/A | Dublin, Dublin, Ireland |
@@ -100,6 +108,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/27/2025 | [Software Engineer II - Fullstack (Multi Product Platform)](https://algojobs.io/jobs/3281229) | [Abnormal Security](https://algojobs.io/company/abnormalsecurity/) | N/A | Hybrid - Bangalore, India |
 | 02/27/2025 | [Senior Fullstack Engineer](https://algojobs.io/jobs/3308198) | [Citizen](https://algojobs.io/company/citizen-1/) | N/A | New York City |
 | 02/26/2025 | [Sr. Fullstack Software Engineer](https://algojobs.io/jobs/3293394) | [Allara Health](https://algojobs.io/company/allarahealth/) | N/A | New York, NY |
+| 02/26/2025 | [Senior Fullstack Software Engineer, PTaaS](https://algojobs.io/jobs/3282892) | [HackerOne](https://algojobs.io/company/hackerone/) | $147K - $184K | Seattle |
 | 02/25/2025 | [Fullstack Data Engineer](https://algojobs.io/jobs/3253601) | [Proton](https://algojobs.io/company/proton/) | N/A | Barcelona;  |
 | 02/25/2025 | [Fullstack .NET Developer](https://algojobs.io/jobs/3274164) | [Arobs Transilvania Software](https://algojobs.io/company/arobs/) | N/A | Cluj Napoca, RO / Chisinau, RO |
 | 02/25/2025 | [AVP, Fullstack Developer (Applications Development Sr Programmer Analyst) - C12 - MISSISSAUGA](https://algojobs.io/jobs/3273223) | [Citi](https://algojobs.io/company/citi/) | N/A | Mississauga Ontario Canada |
@@ -124,7 +133,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/14/2025 | [Mid-level Fullstack Software Engineer](https://algojobs.io/jobs/3164137) | [Trustpilot ](https://algojobs.io/company/trustpilot/) | N/A | London |
 | 02/14/2025 | [Senior Fullstack Software Engineer](https://algojobs.io/jobs/3165107) | [Quorum](https://algojobs.io/company/quorum/) | N/A | Brazil |
 | 02/13/2025 | [Senior Software Engineer - Fullstack](https://algojobs.io/jobs/3144229) | [Data Direct Networks](https://algojobs.io/company/ddn/) | N/A | Pune, MH, IN |
-| 02/13/2025 | [Software Engineer- Fullstack ( node.js / SQL)](https://algojobs.io/jobs/3154795) | [1080 Baker Petrolite LLC](https://algojobs.io/company/bakerhughes/) | N/A | IN-KA-BANGALORE-NEON BUILDING WEST TOWER / IN-MH-Pune-Cummins India Office Campus, 8th floor Survey No. 21, Balewadi / IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI / ... |
 | 02/12/2025 | [Fullstack Software Engineer - App Infra Team](https://algojobs.io/jobs/3136295) | [Riskified](https://algojobs.io/company/riskified/) | N/A | Lisbon |
 | 02/12/2025 | [Fullstack Engineer - Waymo Applications and Tools](https://algojobs.io/jobs/3135990) | [Waymo](https://algojobs.io/company/waymo/) | N/A | City, State, Country |
 | 02/12/2025 | [Sr Fullstack (Angular-.NET)](https://algojobs.io/jobs/3142926) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Rosario, Argentina |
@@ -150,6 +158,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/03/2025 | [Staff Software Engineer — Fullstack](https://algojobs.io/jobs/3033606) | [Snorkel AI](https://algojobs.io/company/snorkelai/) | N/A | Hybrid / San Francisco, CA or Redwood City, CA |
 | 02/03/2025 | [Senior Fullstack Engineer - Software Development](https://algojobs.io/jobs/3032995) | [NewGlobe](https://algojobs.io/company/newglobesandbox/) | N/A | Lagos, Nigeria |
 | 02/03/2025 | [Computer Scientist-I (Java Fullstack)](https://algojobs.io/jobs/3037571) | [ADUS-Adobe Inc.](https://algojobs.io/company/adobe/) | N/A | Noida, India |
-| 01/31/2025 | [Software Engineer, Fullstack](https://algojobs.io/jobs/3002590) | [CLEAR - Corporate](https://algojobs.io/company/clear/) | $150K - $180K | New York, New York, United States (In-Office) |
-| 01/29/2025 | [Fullstack Software Engineer, Technical Referent](https://algojobs.io/jobs/2987627) | [dLocal](https://algojobs.io/company/dlocal/) | N/A | Argentina (Remote) / Montevideo (Remote) / Spain / ... |
-| 01/29/2025 | [Web3 Technical Lead (Fullstack)](https://algojobs.io/jobs/3336008) | [Legitimate](https://algojobs.io/company/legitimatetech/) | $180K - $230K | New York, NY (Remote) |
